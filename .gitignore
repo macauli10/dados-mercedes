@@ -4,3 +4,5 @@ camadas/bronze/dados_bronze/bruto_parquet.parquet
 camadas/silver/dados_silver_csv/v1_sem_duplicatas.csv
 camadas/bronze/dados_bronze/dados_bruto.csv
 camadas/silver/dados_silver_csv/v1_com_duplicatas.csv
+camadas/gold/ml_target.parquet
+camadas/gold/ml_features.parquet 
